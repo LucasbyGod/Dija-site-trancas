@@ -1,0 +1,6 @@
+{
+  "name": "Estúdio Dija Tranças - Agendamento Online",
+  "description": "Agendamento online e catálogo didático do Estúdio Dija Tranças no bairro Damas, Fortaleza - CE. Tranças afros sofisticadas, regras claras e reserva prática.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
